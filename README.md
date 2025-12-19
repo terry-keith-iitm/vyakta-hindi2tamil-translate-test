@@ -33,8 +33,8 @@ A modern Android application for offline Hindi to Tamil text translation powered
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/terry-keith-iitm/vyakta-hindi2tamil.git
-   cd vyakta-hindi2tamil
+   git clone https://github.com/terry-keith-iitm/vyakta-hindi2tamil-translate-test.git
+   cd vyakta-hindi2tamil-translate-test
    ```
 
 2. **Open in Android Studio**
