@@ -14,11 +14,12 @@ A modern Android application for offline Hindi to Tamil text translation powered
 - **Modern UI** - Edge-to-edge display support with Material Design
 - **Lifecycle-Aware** - Proper resource management with automatic cleanup
 
-## 📱 Screenshots
+## 📱 Screenshot
 
-<!-- Add your screenshots here -->
-<!-- ![Home Screen](screenshots/home.png) -->
-<!-- ![Translation Result](screenshots/result.png) -->
+<img width="3195" height="1918" alt="image" src="https://github.com/user-attachments/assets/6706951f-5836-4276-a084-271f39bcef30" />
+<img width="747" height="1603" alt="image" src="https://github.com/user-attachments/assets/4d580efa-a67b-4527-96fe-503312764c79" />
+
+
 
 ## 🔧 Prerequisites
 
@@ -32,8 +33,8 @@ A modern Android application for offline Hindi to Tamil text translation powered
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/TranslateTest.git
-   cd TranslateTest
+   git clone https://github.com/terry-keith-iitm/vyakta-hindi2tamil.git
+   cd vyakta-hindi2tamil
    ```
 
 2. **Open in Android Studio**
@@ -49,7 +50,7 @@ On first launch, the app will automatically download the Hindi-Tamil translation
 
 ## 💻 Usage
 
-1. Enter Hindi text in the input field
+1. Enter Hindi text in the input field in Roman script
 2. Tap the **Translate** button
 3. View the Tamil translation in the output area
 
@@ -92,7 +93,7 @@ This project is licensed under the **GNU General Public License v3.0** - see the
 
 ```
 TranslateTest - Hindi to Tamil Translation App
-Copyright (C) 2024 Terry Studios
+Copyright (C) 2025 Terry Studios
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
