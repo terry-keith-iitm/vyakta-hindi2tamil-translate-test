@@ -16,8 +16,8 @@ A modern Android application for offline Hindi to Tamil text translation powered
 
 ## 📱 Screenshot
 
-<img width="3195" height="1918" alt="image" src="https://github.com/user-attachments/assets/6706951f-5836-4276-a084-271f39bcef30" />
-<img width="747" height="1603" alt="image" src="https://github.com/user-attachments/assets/4d580efa-a67b-4527-96fe-503312764c79" />
+<img width="1600" height="960" alt="image" src="https://github.com/user-attachments/assets/6706951f-5836-4276-a084-271f39bcef30" />
+<img width="374" height="800" alt="image" src="https://github.com/user-attachments/assets/4d580efa-a67b-4527-96fe-503312764c79" />
 
 
 
